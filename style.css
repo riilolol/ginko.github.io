@@ -17,6 +17,9 @@
     color: black;
 }
 
+.pic {
+    text-align: center;
+}
 
 .image {
   color: black;
@@ -33,4 +36,20 @@
   border-color: transparent;
   image-rendering: pixelated;
   border-image-source: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANAgMAAADgR2fRAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAlQTFRFAAAAAAAA+Pj4V7faMwAAAAN0Uk5TAP//RFDWIQAAAC1JREFUeJxjZA34zSg14Rdj5hsRxtQPLIypsyMZU+ZIomCQXBRQnajDf0agegDBHREzb+pRsAAAAABJRU5ErkJggg==");
+}
+
+#text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+.geist-pixel {
+  font-family: "Geist Pixel", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELSH" 0;
 }

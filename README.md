@@ -2,6 +2,7 @@
 <img width="592" height="255" alt="Screenshot 2026-07-24 at 3 59 59 PM" src="https://github.com/user-attachments/assets/a3d04aeb-be1c-426b-85c7-7dedbd5578e7" />
 <h2>welcome to my site!</h2>
 <p>made as a portfolio website and a hackclub project</p>
+<p>everything seems sparse at the moment as i still want to develop more on it</p>
 <h2>pages</h2>
 <p>(<b>disclaimer:</b> everything included is a placeholder at the moment)</p>
 <li>homepage: picuture frame with revolving images from the projects page</li>

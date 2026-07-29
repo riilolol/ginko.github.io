@@ -7,7 +7,7 @@
 <p>(<b>disclaimer:</b> everything included is a placeholder at the moment)</p>
 <li>homepage: picuture frame with revolving images from the projects page</li>
 <li>projects: a gallery of the things that i have made or anything really, depends</li>
-<li>if you click on a frame, a popover displays an increased sized version of that frame</li>
+<p>if you click on a frame, a popover displays an increased sized version of that frame</p>
 <li>about: an about me section</li>
 <h2>made with:</h2>
 <li>html</li>

@@ -12,4 +12,4 @@
 <li>css</li>
 <p>(there is a javascript file but it hasn't been used)</p>
 <br>
-<p>link: </p>
+<p>link: https://riilolol.github.io/ginko.github.io/index.html</p>

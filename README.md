@@ -15,3 +15,5 @@
 <p>(there is a javascript file but it hasn't been used)</p>
 <br>
 <p>link: https://riilolol.github.io/ginko.github.io/</p>
+<br>
+<p>i was told that my README needs to be the raw link?: https://raw.githubusercontent.com/riilolol/ginko.github.io/refs/heads/main/README.md</p>

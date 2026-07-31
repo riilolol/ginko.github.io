@@ -19,4 +19,4 @@ everything seems sparse at the moment as i still want to develop more on it
 
 *(there is a javascript file present but it hasn't been used)*
 
-**site link:** https://riilolol.github.io/ginko.github.io/
+**site link:** https://riilolol.github.io/ginko-website/
